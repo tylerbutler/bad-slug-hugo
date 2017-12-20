@@ -1,0 +1,5 @@
+baseURL: http://www.mysite.com/
+theme: ananke
+
+permalinks:
+  posts: /posts/:slug
